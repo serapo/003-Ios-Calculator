@@ -9,6 +9,6 @@ In this project used;
 
 You can click and check it out!
 
-Github: https:https://lnkd.in/gEUW-x7S
+Github: https://serapo.github.io/003-Ios-Calculator/
 
 ![Form](003.gif)
