@@ -1,10 +1,16 @@
+<<<<<<< HEAD
 # Project-006 : Calculator (JS-02)
 
 ## Description
 Project aims to create a calculator.
+=======
 
-## Problem Statement
 
+# Project-003 : Calculator 
+>>>>>>> 7d70e79851df70d759ae30dfbeaff062cb08ee7c
+
+
+<<<<<<< HEAD
 - Your company has recently started on a project that aims to create a calculator. So you and your colleagues have started to work on the project.
 
 ## Project Skeleton 
@@ -20,9 +26,12 @@ Project aims to create a calculator.
 ```
 
 ## Expected Outcome
+=======
+>>>>>>> 7d70e79851df70d759ae30dfbeaff062cb08ee7c
 
 ![Project 002 Snapshot](Project_002_.png)
 
+<<<<<<< HEAD
 ## Objective
 
 Build a Calculator that is functionally similar to this: [Calculator]( https://codepen.io/AaronClarusway/full/KKzRdvo)
@@ -73,3 +82,5 @@ Build a Calculator that is functionally similar to this: [Calculator]( https://c
 
 ## Happy coding 💪
 
+=======
+>>>>>>> 7d70e79851df70d759ae30dfbeaff062cb08ee7c
